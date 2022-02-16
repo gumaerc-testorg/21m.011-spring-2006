@@ -3,8 +3,13 @@ content_type: resource
 description: This file contains notes on Beethoven, and information on Symphony No.
   5 in C Minor,Piano Sonata No. 17 in D minor, Op. 31, no. 2 (1802) Performed by Nick
   Joliat, special student in Physics and Music.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-011-introduction-to-western-music-spring-2006/ce17ca22e6007da80f5acb1be1567a89_week08_lecture07.pdf
+file: /media/courses/21m-011-introduction-to-western-music-spring-2006/ce17ca22e6007da80f5acb1be1567a89_week08_lecture07.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: week08_lecture07.pdf
 uid: ce17ca22-e600-7da8-0f5a-cb1be1567a89
