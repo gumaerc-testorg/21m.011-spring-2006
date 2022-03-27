@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5da598ad-2f9d-a06c-dce4-5757b2c37623
 resourcetype: Document
 title: week13_lecture12.pdf
 uid: f3847145-6970-2cc8-3ad4-c871ac62d01b
