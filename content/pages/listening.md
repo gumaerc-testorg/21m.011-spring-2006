@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Listening section contains the listening assignments for the topics covered
+  in the calendar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Listening
