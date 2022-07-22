@@ -8,6 +8,7 @@ file: /courses/21m-011-introduction-to-western-music-spring-2006/7d28bb83d7e5c57
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 7d28bb83-d7e5-c57b-86cc-52c4447b00a8
 ---
 This file contains notes on the topic:
 Englightenment,Classical,Music,Style features,Today?s genre,Variation form,Minuet-trio form,Sonata form (on handout).
-

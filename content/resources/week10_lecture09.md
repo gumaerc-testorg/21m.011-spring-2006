@@ -5,6 +5,7 @@ file: /courses/21m-011-introduction-to-western-music-spring-2006/adbb2909ce07c29
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: week10_lecture09.pdf
 uid: adbb2909-ce07-c29c-f4f2-eea751305c93
 ---
 This file contains:Piano repertoire,Song Repertoire.
-

@@ -6,6 +6,7 @@ file: /courses/21m-011-introduction-to-western-music-spring-2006/b1e166574217a27
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: essay_2.pdf
 uid: b1e16657-4217-a278-d67b-3435f123c47f
 ---
 This file contains types of concerts,form and style and questions to consider.
-

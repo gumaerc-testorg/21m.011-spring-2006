@@ -5,6 +5,7 @@ file: /courses/21m-011-introduction-to-western-music-spring-2006/1521e03d818d51a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: week04_lecture04.pdf
 uid: 1521e03d-818d-51af-a6a0-4a252a5ab6ca
 ---
 This file contains notes on the topics: Opera, Oratorio, Church Cantata.
-

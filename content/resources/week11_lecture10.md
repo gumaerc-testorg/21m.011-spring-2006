@@ -6,6 +6,7 @@ file: /courses/21m-011-introduction-to-western-music-spring-2006/6c22b65374ce940
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: week11_lecture10.pdf
 uid: 6c22b653-74ce-9402-4499-64df612bf0eb
 ---
 This file contains notes for the topics: Nationalism,Style Characteristics, Repertoire.
-
