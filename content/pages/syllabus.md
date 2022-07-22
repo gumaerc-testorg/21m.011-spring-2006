@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains information about the course, its enrollment, required
+  text, calendar covering the topics, and grading criteria.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 00040ad2-361a-2154-8dc4-3ad91951a829
 ---
