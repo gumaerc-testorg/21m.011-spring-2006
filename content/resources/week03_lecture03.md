@@ -4,6 +4,7 @@ description: 'This section contains topics: Science,Philosophy,Art,Literature,Dr
   and poetry,Exploration and Colonialism,Politics,Rise of instrumental music,Style
   features,Today?s genre,Terms.'
 file: /courses/21m-011-introduction-to-western-music-spring-2006/70eb2414c59c44cc0d10d699e222a167_week03_lecture03.pdf
+file_size: 107320
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
