@@ -4,6 +4,7 @@ description: This file contains:Stravinsky, Rite of Spring (1913),Berg, Wozzeck 
   + [6?]) 1923,Bartok, Music for Strings, Percussion and Celesta (6? 59?) 1936,George
   Crumb, Black Angels, for Electric String Quartet (1970).
 file: /courses/21m-011-introduction-to-western-music-spring-2006/3451cb56ec4c2ce0f800da456530f628_week12_lecture11.pdf
+file_size: 148709
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
