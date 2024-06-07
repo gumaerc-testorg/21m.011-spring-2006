@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains notes on the topics: Romantic Grand Opera, Prelude
   - Philter Scene.'
 file: /courses/21m-011-introduction-to-western-music-spring-2006/cacb8e58a101113e7bc6fbd535ddb52c_week09_lecture08.pdf
+file_size: 167969
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

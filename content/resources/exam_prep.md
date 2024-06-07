@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains test details and topic of the test.
 file: /courses/21m-011-introduction-to-western-music-spring-2006/1e7047690c24e14045a7c763a78cba2d_exam_prep.pdf
+file_size: 119102
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
