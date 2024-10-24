@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the topics: A Cappella Sacred Music,Madrigal,Instrumental
   Music,EARLY BAROQUE (1600-1650).'
-file: /courses/21m-011-introduction-to-western-music-spring-2006/67bd1c59e3e12173afc2c9e4a9088084_week02_lecture02.pdf
+file: /ol-ocw-studio-app/courses/21m-011-introduction-to-western-music-spring-2006/67bd1c59e3e12173afc2c9e4a9088084_week02_lecture02.pdf
 file_size: 27049
 file_type: application/pdf
 learning_resource_types:
