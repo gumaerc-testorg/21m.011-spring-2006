@@ -1,12 +1,12 @@
 ---
 content_type: page
 description: This section contains a series of weblinks useful for the course.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: d18f6e00-d6f3-498b-33d0-76e60941e24e
 ---
-
 This page presents a series of Weblinks providing information about concert dates and locations in and around the Boston, Massachusetts area.
 
 [Bank of America Celebrity Series](http://celebrityseries.org/)
@@ -27,6 +27,6 @@ This page presents a series of Weblinks providing information about concert date
 
 [Boston University College of Fine Arts](http://www.bu.edu/cfa/news/)
 
-[Longy School of Music](http://www.longy.edu/)
+[Longy School of Music](http://longy.edu/)
 
 [New England Conservatory](https://necmusic.edu/)
