@@ -4,7 +4,7 @@ description: 'This file contains notes on the topic:
 
   Englightenment,Classical,Music,Style features,Today?s genre,Variation form,Minuet-trio
   form,Sonata form (on handout).'
-file: /ol-ocw-studio-app/courses/21m-011-introduction-to-western-music-spring-2006/7d28bb83d7e5c57b86cc52c4447b00a8_week05_lecture05.pdf
+file: /courses/21m-011-introduction-to-western-music-spring-2006/7d28bb83d7e5c57b86cc52c4447b00a8_week05_lecture05.pdf
 file_size: 158899
 file_type: application/pdf
 learning_resource_types:
