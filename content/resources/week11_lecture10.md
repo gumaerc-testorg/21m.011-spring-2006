@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains notes for the topics: Nationalism,Style Characteristics,
   Repertoire.'
-file: /courses/21m-011-introduction-to-western-music-spring-2006/6c22b65374ce9402449964df612bf0eb_week11_lecture10.pdf
+file: /ol-ocw-studio-app/courses/21m-011-introduction-to-western-music-spring-2006/6c22b65374ce9402449964df612bf0eb_week11_lecture10.pdf
 file_size: 154960
 file_type: application/pdf
 learning_resource_types:
