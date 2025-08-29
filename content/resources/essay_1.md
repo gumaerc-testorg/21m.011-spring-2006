@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains preparation guidelines and the essay structure.
-file: /courses/21m-011-introduction-to-western-music-spring-2006/7f1f9e9b45781b2ae875f0a7be78df03_essay_1.pdf
+file: /ol-ocw-studio-app/courses/21m-011-introduction-to-western-music-spring-2006/7f1f9e9b45781b2ae875f0a7be78df03_essay_1.pdf
 file_size: 16118
 file_type: application/pdf
 learning_resource_types:
